@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.11.1](https://github.com/terraform-aws-modules/terraform-aws-elasticache/compare/v1.11.0...v1.11.1) (2026-08-06)
+
+### Bug Fixes
+
+* Update GitHub Actions and pre-commit hook versions ([#77](https://github.com/terraform-aws-modules/terraform-aws-elasticache/issues/77)) ([27596cb](https://github.com/terraform-aws-modules/terraform-aws-elasticache/commit/27596cb3cc9f7d711e446faf5370f3af5cd6ee5b))
+
 ## [1.11.0](https://github.com/terraform-aws-modules/terraform-aws-elasticache/compare/v1.10.3...v1.11.0) (2026-01-29)
 
 ### Features
